@@ -8,14 +8,53 @@
 
 </Property>
 	<Item Name="Private" Type="Folder">
+		<Item Name="Parsers" Type="Folder">
+			<Item Name="Parse All Structure Data.vi" Type="VI" URL="../Private/Parsers/Parse All Structure Data.vi"/>
+			<Item Name="Parse Current Temperature.vi" Type="VI" URL="../Private/Parsers/Parse Current Temperature.vi"/>
+			<Item Name="Parse Device IDs.vi" Type="VI" URL="../Private/Parsers/Parse Device IDs.vi"/>
+			<Item Name="Parse Device Name.vi" Type="VI" URL="../Private/Parsers/Parse Device Name.vi"/>
+			<Item Name="Parse Nest Data.vi" Type="VI" URL="../Private/Parsers/Parse Nest Data.vi"/>
+			<Item Name="Parse Structure Away Status.vi" Type="VI" URL="../Private/Parsers/Parse Structure Away Status.vi"/>
+			<Item Name="Parse Structure IDs.vi" Type="VI" URL="../Private/Parsers/Parse Structure IDs.vi"/>
+			<Item Name="Parse Structure Names.vi" Type="VI" URL="../Private/Parsers/Parse Structure Names.vi"/>
+			<Item Name="Parse Successful Login Response.vi" Type="VI" URL="../Private/Parsers/Parse Successful Login Response.vi"/>
+			<Item Name="Parse Target Temperature.vi" Type="VI" URL="../Private/Parsers/Parse Target Temperature.vi"/>
+			<Item Name="Parse Thermostate Mode.vi" Type="VI" URL="../Private/Parsers/Parse Thermostate Mode.vi"/>
+		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Nest Config.ctl" Type="VI" URL="../Private/Type Defs/Nest Config.ctl"/>
+			<Item Name="Nest Data FGV State.ctl" Type="VI" URL="../Private/Type Defs/Nest Data FGV State.ctl"/>
 			<Item Name="Nest Error.ctl" Type="VI" URL="../Private/Type Defs/Nest Error.ctl"/>
+			<Item Name="Session Data.ctl" Type="VI" URL="../Private/Type Defs/Session Data.ctl"/>
+			<Item Name="Structure.ctl" Type="VI" URL="../Private/Type Defs/Structure.ctl"/>
+			<Item Name="Thermostat Mode.ctl" Type="VI" URL="../Private/Type Defs/Thermostat Mode.ctl"/>
 		</Item>
+		<Item Name="Append Common Headers.vi" Type="VI" URL="../Private/Append Common Headers.vi"/>
 		<Item Name="Check Response.vi" Type="VI" URL="../Private/Check Response.vi"/>
+		<Item Name="Device Name To ID.vi" Type="VI" URL="../Private/Device Name To ID.vi"/>
+		<Item Name="FGV - Nest Data Cache.vi" Type="VI" URL="../Private/FGV - Nest Data Cache.vi"/>
 		<Item Name="Generate Error.vi" Type="VI" URL="../Private/Generate Error.vi"/>
+		<Item Name="Get All Structure Data.vi" Type="VI" URL="../Private/Get All Structure Data.vi"/>
+		<Item Name="Get Raw Data.vi" Type="VI" URL="../Private/Get Raw Data.vi"/>
+		<Item Name="Structure Name To ID.vi" Type="VI" URL="../Private/Structure Name To ID.vi"/>
 	</Item>
-	<Item Name="Public" Type="Folder"/>
+	<Item Name="Public" Type="Folder">
+		<Item Name="Connect.vi" Type="VI" URL="../Public/Connect.vi"/>
+		<Item Name="Disconnect.vi" Type="VI" URL="../Public/Disconnect.vi"/>
+		<Item Name="Read Away Status.vi" Type="VI" URL="../Public/Read Away Status.vi"/>
+		<Item Name="Read Device Names.vi" Type="VI" URL="../Public/Read Device Names.vi"/>
+		<Item Name="Read Structure Names.vi" Type="VI" URL="../Public/Read Structure Names.vi"/>
+		<Item Name="Read Target Temperature C.vi" Type="VI" URL="../Public/Read Target Temperature C.vi"/>
+		<Item Name="Read Target Temperature F.vi" Type="VI" URL="../Public/Read Target Temperature F.vi"/>
+		<Item Name="Read Target Temperature.vi" Type="VI" URL="../Public/Read Target Temperature.vi"/>
+		<Item Name="Read Temperature C.vi" Type="VI" URL="../Public/Read Temperature C.vi"/>
+		<Item Name="Read Temperature F.vi" Type="VI" URL="../Public/Read Temperature F.vi"/>
+		<Item Name="Read Temperature.vi" Type="VI" URL="../Public/Read Temperature.vi"/>
+		<Item Name="Read Thermostat Mode.vi" Type="VI" URL="../Public/Read Thermostat Mode.vi"/>
+		<Item Name="Write Thermostat Target Temperature C.vi" Type="VI" URL="../Public/Write Thermostat Target Temperature C.vi"/>
+		<Item Name="Write Thermostat Target Temperature F.vi" Type="VI" URL="../Public/Write Thermostat Target Temperature F.vi"/>
+		<Item Name="Write Thermostat Target Temperature.vi" Type="VI" URL="../Public/Write Thermostat Target Temperature.vi"/>
+	</Item>
 	<Item Name="Test Apps" Type="Folder">
 		<Item Name="Simple.vi" Type="VI" URL="../Test Apps/Simple.vi"/>
 	</Item>
