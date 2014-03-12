@@ -40,23 +40,25 @@
 		<Item Name="Get All Structure Data.vi" Type="VI" URL="../Private/Get All Structure Data.vi"/>
 		<Item Name="Get Raw Data.vi" Type="VI" URL="../Private/Get Raw Data.vi"/>
 		<Item Name="Structure Name To ID.vi" Type="VI" URL="../Private/Structure Name To ID.vi"/>
+		<Item Name="Write To Device.vi" Type="VI" URL="../Private/Write To Device.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Connect.vi" Type="VI" URL="../Public/Connect.vi"/>
 		<Item Name="Disconnect.vi" Type="VI" URL="../Public/Disconnect.vi"/>
-		<Item Name="Read Away Status.vi" Type="VI" URL="../Public/Read Away Status.vi"/>
-		<Item Name="Read Device Names.vi" Type="VI" URL="../Public/Read Device Names.vi"/>
-		<Item Name="Read Structure Names.vi" Type="VI" URL="../Public/Read Structure Names.vi"/>
-		<Item Name="Read Target Temperature C.vi" Type="VI" URL="../Public/Read Target Temperature C.vi"/>
-		<Item Name="Read Target Temperature F.vi" Type="VI" URL="../Public/Read Target Temperature F.vi"/>
-		<Item Name="Read Target Temperature.vi" Type="VI" URL="../Public/Read Target Temperature.vi"/>
-		<Item Name="Read Temperature C.vi" Type="VI" URL="../Public/Read Temperature C.vi"/>
-		<Item Name="Read Temperature F.vi" Type="VI" URL="../Public/Read Temperature F.vi"/>
-		<Item Name="Read Temperature.vi" Type="VI" URL="../Public/Read Temperature.vi"/>
-		<Item Name="Read Thermostat Mode.vi" Type="VI" URL="../Public/Read Thermostat Mode.vi"/>
-		<Item Name="Write Thermostat Target Temperature C.vi" Type="VI" URL="../Public/Write Thermostat Target Temperature C.vi"/>
-		<Item Name="Write Thermostat Target Temperature F.vi" Type="VI" URL="../Public/Write Thermostat Target Temperature F.vi"/>
-		<Item Name="Write Thermostat Target Temperature.vi" Type="VI" URL="../Public/Write Thermostat Target Temperature.vi"/>
+		<Item Name="Get Away Status.vi" Type="VI" URL="../Public/Get Away Status.vi"/>
+		<Item Name="Get Device Names.vi" Type="VI" URL="../Public/Get Device Names.vi"/>
+		<Item Name="Get Structure Names.vi" Type="VI" URL="../Public/Get Structure Names.vi"/>
+		<Item Name="Get Target Temperature C.vi" Type="VI" URL="../Public/Get Target Temperature C.vi"/>
+		<Item Name="Get Target Temperature F.vi" Type="VI" URL="../Public/Get Target Temperature F.vi"/>
+		<Item Name="Get Target Temperature.vi" Type="VI" URL="../Public/Get Target Temperature.vi"/>
+		<Item Name="Get Temperature C.vi" Type="VI" URL="../Public/Get Temperature C.vi"/>
+		<Item Name="Get Temperature F.vi" Type="VI" URL="../Public/Get Temperature F.vi"/>
+		<Item Name="Get Temperature.vi" Type="VI" URL="../Public/Get Temperature.vi"/>
+		<Item Name="Get Thermostat Mode.vi" Type="VI" URL="../Public/Get Thermostat Mode.vi"/>
+		<Item Name="Set Thermostat Mode.vi" Type="VI" URL="../Public/Set Thermostat Mode.vi"/>
+		<Item Name="Set Thermostat Target Temperature C.vi" Type="VI" URL="../Public/Set Thermostat Target Temperature C.vi"/>
+		<Item Name="Set Thermostat Target Temperature F.vi" Type="VI" URL="../Public/Set Thermostat Target Temperature F.vi"/>
+		<Item Name="Set Thermostat Target Temperature.vi" Type="VI" URL="../Public/Set Thermostat Target Temperature.vi"/>
 	</Item>
 	<Item Name="Test Apps" Type="Folder">
 		<Item Name="Simple.vi" Type="VI" URL="../Test Apps/Simple.vi"/>
