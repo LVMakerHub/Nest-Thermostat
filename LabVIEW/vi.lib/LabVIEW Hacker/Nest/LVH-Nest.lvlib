@@ -10,6 +10,9 @@
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Nest - Basic Read.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Nest/Nest - Basic Read.vi"/>
 	</Item>
+	<Item Name="Help" Type="Folder">
+		<Item Name="Nest Help.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Nest/Nest Help.vi"/>
+	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Parsers" Type="Folder">
 			<Item Name="Parse All Structure Data.vi" Type="VI" URL="../Private/Parsers/Parse All Structure Data.vi"/>
