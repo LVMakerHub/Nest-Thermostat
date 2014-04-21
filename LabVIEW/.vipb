@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.5" Created_Date="2014-03-11 15:28:54" Modified_Date="2014-03-12 16:37:57" Creator="samkristoff" Comments="" ID="ea5f49c2ec971fad2a63d14ee52e9837">
+<VI_Package_Builder_Settings Version="0.5" Created_Date="2014-03-11 15:28:54" Modified_Date="2014-04-21 15:30:44" Creator="samkristoff" Comments="" ID="7a4b3bf6f0a92edbe7e411429456c9a2">
   <Library_General_Settings>
     <Package_File_Name>lvh_nest</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\LVH-Builds\LVH-Nest\Installers</Library_Output_Folder>
@@ -15,7 +15,9 @@
     <Was_Built>true</Was_Built>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <Additional_External_Dependencies>lvh_toolbox &gt;=1.0.0.21</Additional_External_Dependencies>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -27,7 +29,7 @@
     <VI_Package_Configuration_File>.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>A Nest Interface for LabVIEW.</One_Line_Description_Summary>
-      <Description/>
+      <Description>The LVH Nest Interface allows users to control Nest devices from LabVIEW.</Description>
       <Copyright/>
       <Packager>Sam Kristoff</Packager>
       <URL>www.labviewhacker.com/nest</URL>

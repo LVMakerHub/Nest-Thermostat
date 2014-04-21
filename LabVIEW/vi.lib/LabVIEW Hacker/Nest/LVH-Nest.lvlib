@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Nest - Basic Read.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Nest/Nest - Basic Read.vi"/>
+		<Item Name="Nest - Find Devices.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Nest/Nest - Find Devices.vi"/>
 	</Item>
 	<Item Name="Help" Type="Folder">
 		<Item Name="Nest Help.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Nest/Nest Help.vi"/>
@@ -39,6 +40,7 @@
 		<Item Name="Check Response.vi" Type="VI" URL="../Private/Check Response.vi"/>
 		<Item Name="Device Name To ID.vi" Type="VI" URL="../Private/Device Name To ID.vi"/>
 		<Item Name="FGV - Nest Data Cache.vi" Type="VI" URL="../Private/FGV - Nest Data Cache.vi"/>
+		<Item Name="Fill Tree.vi" Type="VI" URL="../Private/Fill Tree.vi"/>
 		<Item Name="Generate Error.vi" Type="VI" URL="../Private/Generate Error.vi"/>
 		<Item Name="Get All Structure Data.vi" Type="VI" URL="../Private/Get All Structure Data.vi"/>
 		<Item Name="Get Raw Data.vi" Type="VI" URL="../Private/Get Raw Data.vi"/>
