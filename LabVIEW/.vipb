@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.5" Created_Date="2014-03-11 15:28:54" Modified_Date="2014-04-21 15:30:44" Creator="samkristoff" Comments="" ID="7a4b3bf6f0a92edbe7e411429456c9a2">
+<VI_Package_Builder_Settings Version="0.5" Created_Date="2014-03-11 15:28:54" Modified_Date="2014-04-21 15:57:27" Creator="samkristoff" Comments="" ID="a47e8f6049c42f7a26a71eaaa0339c6e">
   <Library_General_Settings>
     <Package_File_Name>lvh_nest</Package_File_Name>
-    <Library_Version>1.0.0.9</Library_Version>
+    <Library_Version>1.0.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\LVH-Builds\LVH-Nest\Installers</Library_Output_Folder>
